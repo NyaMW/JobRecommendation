@@ -1304,3 +1304,7 @@
 2020-05-07 21:45:09,158 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nyamw/eclipse-workspace/jupiter/src/main/resources
 2020-05-07 21:45:09,161 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-05-07 21:45:09,161 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nyamw/eclipse-workspace/jupiter/src/test/resources
+2020-05-07 21:48:44,289 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 21:48:44,289 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nyamw/eclipse-workspace/jupiter/src/main/resources
+2020-05-07 21:48:44,290 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 21:48:44,290 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nyamw/eclipse-workspace/jupiter/src/test/resources
