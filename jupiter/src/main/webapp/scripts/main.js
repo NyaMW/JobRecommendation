@@ -436,7 +436,7 @@
     activeBtn('recommend-btn');
 
     // request parameters
-    var url = './recommendation' + '?' + 'user_id=' + user_id + '&lat=' + lat + '&lon=' + lng;
+    var url = './recommend' + '?' + 'user_id=' + user_id + '&lat=' + lat + '&lon=' + lng;
     var data = null;
 
     // display loading message
